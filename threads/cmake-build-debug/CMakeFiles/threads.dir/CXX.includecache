@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/antonzaripov/CLionProjects/threads/client.cpp
+hotel.cpp
+/Users/antonzaripov/CLionProjects/threads/hotel.cpp
+iostream
+-
+
+/Users/antonzaripov/CLionProjects/threads/hotel.cpp
+fstream
+/Users/antonzaripov/CLionProjects/threads/fstream
+
+/Users/antonzaripov/CLionProjects/threads/main.cpp
+iostream
+-
+list
+-
+thread
+-
+fstream
+-
+ctime
+-
+client.cpp
+/Users/antonzaripov/CLionProjects/threads/client.cpp
+hotel.cpp
+/Users/antonzaripov/CLionProjects/threads/hotel.cpp
+

@@ -1,0 +1,3 @@
+/Users/antonzaripov/CLionProjects/threads/CMakeFiles/rebuild_cache.dir
+/Users/antonzaripov/CLionProjects/threads/CMakeFiles/edit_cache.dir
+/Users/antonzaripov/CLionProjects/threads/CMakeFiles/threads.dir
